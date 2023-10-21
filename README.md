@@ -1,1 +1,5 @@
-# mACHINE-lEARNING-REGRESSION-MODELS---lasso-ridge
+### LASSO $ RIDGE regression is a regularization tactic through models to solve over fitting.
+- Suoppose in OUR data frame we have some missing values (NAN)
+- we can eithe use the measure of cenntral tendency mean and mode to fill the cells
+- OR WE also can introduce fuction isna(0 to just fill the cells with zeros
+- 
